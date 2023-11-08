@@ -1,0 +1,16 @@
+.active{
+    color: rgb(237, 19, 19);
+    text-decoration: none;
+    font-size:bold;
+}
+.pending{
+    color: rgb(108, 14, 196);
+    text-decoration: none;
+    font-size:bold;
+}
+ul,li{
+    display: flex;
+    padding: 10px;
+    background-color: aqua;
+
+}
